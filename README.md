@@ -1,8 +1,6 @@
 ### Hi I am Vlad Software Engineer
 
 
-[![Doc](https://www.codewars.com/users/vladku/badges/large)](https://www.codewars.com/users/vladku)
-
 <!--
 **vladku/vladku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
